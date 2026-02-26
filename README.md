@@ -60,6 +60,8 @@ The goal is to ensure:
 
 ## Phase 1: Create the Network Foundation
 
+![alt text](https://github.com/glenpagesr-dev/Building-a-Secure-2-Tier-Web-Application/blob/main/Create%20virtual%20network.png)
+
 - Create a Resource Group in East US  
 - Create a Virtual Network with address space 10.0.0.0/16  
 - Create two subnets:
