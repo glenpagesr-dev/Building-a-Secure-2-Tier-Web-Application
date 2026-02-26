@@ -24,21 +24,7 @@ The goal is to ensure:
 
 ## Architecture Design
 
-        Internet
-            |
-            v
-    -----------------
-    |  Public Subnet |
-    |   vm-web-01    |
-    -----------------
-            |
-    Internal VNet Traffic
-            |
-            v
-    -----------------
-    | Private Subnet |
-    |   vm-db-01     |
-    -----------------
+![alt text](https://github.com/glenpagesr-dev/Building-a-Secure-2-Tier-Web-Application/blob/main/Architecture%20Diagram.png)
 
 ---
 
