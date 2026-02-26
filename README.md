@@ -144,6 +144,8 @@ If successful, this confirms:
 
 ## Phase 5: Configure Database Security (NSG Rules)
 
+![alt text](https://github.com/glenpagesr-dev/Building-a-Secure-2-Tier-Web-Application/blob/main/Configureing%20firewall%20(NSG).png)
+
 Create an inbound NSG rule:
 
 - **Source:** 10.0.1.0/24 (Web Subnet)  
