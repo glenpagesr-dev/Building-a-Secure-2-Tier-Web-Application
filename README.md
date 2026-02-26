@@ -102,6 +102,8 @@ ssh -i key-lab02.pem azureuser@<public-ip>
 
 ## Phase 3: Deploy the Database Server (Private Tier)
 
+![alt text](ithub.com/glenpagesr-dev/Building-a-Secure-2-Tier-Web-Application/blob/main/Deploy%20databse%20server.png)
+
 Create a second Virtual Machine:
 
 - **Name:** vm-db-01  
