@@ -121,6 +121,8 @@ After deployment:
 
 ## Phase 4: Validate Internal Connectivity (Jump Method)
 
+![alt text](https://github.com/glenpagesr-dev/Building-a-Secure-2-Tier-Web-Application/blob/main/Validating%20Connectivity.png)
+
 Because the database server has no Public IP:
 
 1. SSH into the Web Server  
