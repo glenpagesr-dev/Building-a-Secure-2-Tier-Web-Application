@@ -74,6 +74,8 @@ This establishes segmentation between public-facing and private workloads.
 
 ## Phase 2: Deploy the Web Server (Public Tier)
 
+![alt text](https://github.com/glenpagesr-dev/Building-a-Secure-2-Tier-Web-Application/blob/main/Create%20virtual%20network.png)
+
 Create a Virtual Machine with the following configuration:
 
 - **Name:** vm-web-01  
